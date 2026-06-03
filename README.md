@@ -1,5 +1,5 @@
 
-# 💳 Loan Default Prediction Using Logistic Regression
+# 💳 Bank Loan Default Prediction Using Logistic Regression
 
 ## Project Overview
 
