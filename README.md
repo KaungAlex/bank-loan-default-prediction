@@ -138,15 +138,15 @@ Loan Default Prediction
 
 ### Salary Distribution
 
-![Salary Distribution]([screenshots/salary%20distribution.png])
+![Salary Distribution]([model/salary%20distribution.png])
 
 ### Correlation Heatmap
 
-![Correlation Heatmap]([screenshots/correlation&20heatmap.png])
+![Correlation Heatmap]([model/correlation&20heatmap.png])
 
 ### Confusion Matrix
 
-![Confusion Matrix]([screenshots/confusion%20matrix.png])
+![Confusion Matrix]([model/confusion%20matrix.png])
 
 ---
 
