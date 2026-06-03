@@ -138,15 +138,15 @@ Loan Default Prediction
 
 ### Salary Distribution
 
-![Salary Distribution]([screenshots/salary_distribution.png](https://github.com/KaungAlex/Bank_Loan_Default_Prediction/blob/4473642a41c7470df5408b1a7dc770a9f162de15/model/Class%20Distribution.png))
+![Salary Distribution]([screenshots/salary%20distribution.png])
 
 ### Correlation Heatmap
 
-![Correlation Heatmap]([screenshots/correlation_heatmap.png](https://github.com/KaungAlex/Bank_Loan_Default_Prediction/blob/4473642a41c7470df5408b1a7dc770a9f162de15/model/Correlation%20HeatMap.png))
+![Correlation Heatmap]([screenshots/correlation&20heatmap.png])
 
 ### Confusion Matrix
 
-![Confusion Matrix]([screenshots/confusion_matrix.png](https://github.com/KaungAlex/Bank_Loan_Default_Prediction/blob/4473642a41c7470df5408b1a7dc770a9f162de15/model/Confusion%20Matrix.png))
+![Confusion Matrix]([screenshots/confusion%20matrix.png])
 
 ---
 
