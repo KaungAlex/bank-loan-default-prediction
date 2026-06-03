@@ -224,24 +224,6 @@ High Risk
 
 ---
 
-## Repository Structure
-
-```text
-loan-default-prediction/
-│
-├── README.md
-├── Default_Loan.ipynb
-├── Default_Fin_1.csv
-│
-└── screenshots/
-    ├── class_distribution.png
-    ├── salary_distribution.png
-    ├── correlation_heatmap.png
-    └── confusion_matrix.png
-```
-
----
-
 ## Author
 
 **Alex Kaung**
