@@ -134,19 +134,26 @@ Loan Default Prediction
 
 ---
 
-## Project Screenshots
 
 ### Salary Distribution
 
-![Salary Distribution]([model/salary%20distribution.png])
+This visualization shows the distribution of customer annual salaries and helps identify income patterns within the dataset.
+
+![Salary Distribution](model/Salary%20Distribution.png)
+
 
 ### Correlation Heatmap
 
-![Correlation Heatmap]([model/correlation&20heatmap.png])
+This heatmap highlights the relationships between numerical variables and helps identify features that may influence loan default behavior.
+
+![Correlation Heatmap](model/Correlation%20HeatMap.png)
+
 
 ### Confusion Matrix
 
-![Confusion Matrix]([model/confusion%20matrix.png])
+The confusion matrix evaluates the performance of the Logistic Regression model by comparing actual and predicted loan default classifications.
+
+![Confusion Matrix](model/Confusion%20Matrix.png)
 
 ---
 
