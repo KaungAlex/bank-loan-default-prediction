@@ -223,11 +223,3 @@ High Risk
 * Correlation Analysis
 
 ---
-
-## Author
-
-**Alex Kaung**
-
-Data Analyst | Machine Learning Enthusiast | BI Developer
-
-GitHub: https://github.com/KaungAlex
